@@ -17,4 +17,4 @@
 # limitations under the License.
 #
 
-default["cronlist"]["bin_file"] = "/usr/local/bin/cronlist"
+default["cronlist"]["bin_file"] = "/usr/bin/cronlist"
